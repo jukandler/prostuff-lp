@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/prostuff-lp/static/css/main.292f3297.chunk.css",
-    "main.js": "/prostuff-lp/static/js/main.630310c8.chunk.js",
-    "main.js.map": "/prostuff-lp/static/js/main.630310c8.chunk.js.map",
+    "main.js": "/prostuff-lp/static/js/main.c02886f2.chunk.js",
+    "main.js.map": "/prostuff-lp/static/js/main.c02886f2.chunk.js.map",
     "runtime-main.js": "/prostuff-lp/static/js/runtime-main.86ba96b6.js",
     "runtime-main.js.map": "/prostuff-lp/static/js/runtime-main.86ba96b6.js.map",
     "static/js/2.b12c0c7e.chunk.js": "/prostuff-lp/static/js/2.b12c0c7e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.86ba96b6.js",
     "static/js/2.b12c0c7e.chunk.js",
     "static/css/main.292f3297.chunk.css",
-    "static/js/main.630310c8.chunk.js"
+    "static/js/main.c02886f2.chunk.js"
   ]
 }
