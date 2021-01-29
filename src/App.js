@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hier entsteht die PROSTUFF Website!
+          Hier entsteht die PROSTUFF Website.
         </p>
       </header>
     </div>
