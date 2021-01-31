@@ -1,0 +1,15 @@
+.link-header {
+  text-align: center;
+  height: 30vh;
+  background-color: #0b193f;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
+.content {
+  color: white;
+  align-items: center;
+  justify-content: center;
+}

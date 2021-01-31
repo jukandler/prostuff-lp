@@ -1,0 +1,21 @@
+.header {
+  text-align: center;
+  height: 50vh;
+  background-color: #0b193f;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
+.headline {
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+  margin-bottom: 25px;
+}
+
+.subheadline {
+  color: #ffff;
+  font-size: 24px;
+  max-width: 35vw;
+}

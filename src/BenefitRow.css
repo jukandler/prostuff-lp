@@ -1,0 +1,19 @@
+.benefit-row {
+  height: 20vw;
+  background-color: #ffff;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  display: flex;
+}
+
+.benefit-icon {
+  width: 15vw;
+}
+
+.benefit-column {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 20px;
+}

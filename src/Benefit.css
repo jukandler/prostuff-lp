@@ -1,0 +1,22 @@
+.benefit {
+  height: 20vw;
+  background-color: #ffff;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  display: flex;
+}
+
+.benefit.reverse {
+  flex-direction: row-reverse;
+}
+
+.benefit-icon {
+  width: 15vw;
+}
+
+.text-block {
+  display: flex;
+  flex-direction: column;
+  max-width: 25vw;
+}
