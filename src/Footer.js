@@ -1,14 +1,16 @@
+import { Link } from "react-router-dom";
+
 import './Footer.css';
 
 function Footer() {
   return (
     <div className="footer">
-        <p className="footer-link">
-          Impressum
-        </p>
-        <p className="footer-link">
-          Datenschutz
-        </p>
+        <div className="footer-link">
+            <Link to="/impressum">Impressum</Link>
+        </div>
+        <div className="footer-link">
+            <Link to="/datenschutz">Datenschutz</Link>
+        </div>
     </div>
   );
 }
