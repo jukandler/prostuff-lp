@@ -226,7 +226,7 @@ function DataPrivacy() {
                     <br/>
                 `https://www.facebook.com/settings?tab=ads`
                     <br/>
-                Dee Datenschutzerklärung von Facebook finden Sie hier: `https://www.facebook.com/about/privacy/`
+                Die Datenschutzerklärung von Facebook finden Sie hier: `https://www.facebook.com/about/privacy/`
                     <br/>
                 Facebook verfügt über eine EU-US-Privacy-Shield-Zertifizierung.
                     <br/>
