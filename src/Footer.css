@@ -3,9 +3,19 @@
   margin: auto;
   background-color: #ffff;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   max-width: 648px;
   flex-direction: row;
   display: flex;
   padding: 20px 25px;
+}
+
+.footer-link {
+  margin: 0 20px;
+  border-bottom: 1px solid currentColor;
+  cursor: pointer;
+}
+
+.footer-link:hover {
+  border-bottom: none;
 }

@@ -4,6 +4,11 @@
   line-height: 1.5;
 }
 
+.highlight-container {
+  background-color: #20eda4;
+  padding: 50px 0;
+}
+
 .benefit-container {
   margin: 50px 0;
 }

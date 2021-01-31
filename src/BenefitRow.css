@@ -4,17 +4,16 @@
 
 @media (min-width: 750px) {
   .benefit-row {
-    background-color: #fdfffe;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
     display: flex;
     max-width: 912px;
-    margin: 50px auto;
+    margin: 0px auto;
   }
 
   .benefit-icon {
-    width: 100%;
+    width: 60%;
     padding: 50px;
     box-sizing: border-box;
   }

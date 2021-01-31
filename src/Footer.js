@@ -3,14 +3,11 @@ import './Footer.css';
 function Footer() {
   return (
     <div className="footer">
-        <p>
+        <p className="footer-link">
           Impressum
         </p>
-        <p>
+        <p className="footer-link">
           Datenschutz
-        </p>
-        <p>
-          Kontakt
         </p>
     </div>
   );
