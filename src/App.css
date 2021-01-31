@@ -1,3 +1,15 @@
 .App {
   text-align: center;
+  color: #0b193f;
+  line-height: 1.5;
+}
+
+.benefit-container {
+  margin: 50px 0;
+}
+
+@media (min-width: 750px) {
+  .benefit-container {
+    margin: 100px 0;
+  }
 }

@@ -1,22 +1,37 @@
 .benefit {
-  height: 20vw;
   background-color: #ffff;
   align-items: center;
   justify-content: center;
   flex-direction: row;
   display: flex;
+  max-width: 648px;
+  margin: 40px auto;
+  flex-wrap: wrap;
+  padding: 0 25px;
+}
+
+@media (min-width: 750px) {
+  .benefit {
+    justify-content: space-between;
+    margin: 100px auto;
+  }
 }
 
 .benefit.reverse {
   flex-direction: row-reverse;
 }
 
-.benefit-icon {
-  width: 15vw;
+.benefit-image {
+  width: 30%;
 }
 
 .text-block {
   display: flex;
   flex-direction: column;
-  max-width: 25vw;
+}
+
+@media (min-width: 750px) {
+  .text-block {
+    width: 60%;
+  }
 }

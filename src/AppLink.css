@@ -1,6 +1,5 @@
 .link-header {
   text-align: center;
-  height: 30vh;
   background-color: #0b193f;
   align-items: center;
   justify-content: center;
@@ -12,4 +11,6 @@
   color: white;
   align-items: center;
   justify-content: center;
+  padding: 50px 25px;
+  max-width: 648px;
 }

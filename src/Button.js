@@ -3,7 +3,7 @@ import './Button.css';
 function Button() {
   return (
       <button className="button">
-        App runterladen
+        App downloaden
       </button>
   );
 }

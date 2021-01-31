@@ -1,19 +1,28 @@
 .benefit-row {
-  height: 20vw;
-  background-color: #ffff;
-  align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  display: flex;
+  display: none;
 }
 
-.benefit-icon {
-  width: 15vw;
-}
+@media (min-width: 750px) {
+  .benefit-row {
+    background-color: #fdfffe;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    max-width: 912px;
+    margin: 50px auto;
+  }
 
-.benefit-column {
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-  margin-right: 20px;
+  .benefit-icon {
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+  }
+
+  .benefit-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+  }
 }

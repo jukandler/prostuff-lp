@@ -1,7 +1,12 @@
 .button {
-  padding: 10px 30px;
-  background: #fff;
-  border-radius: 10px;
+  padding: 15px 30px;
+  background: #20eda4;
+  border-radius: 5px;
   max-width: 250px;
-  margin-bottom: 50px;
+  margin: 20px 0;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
 }
