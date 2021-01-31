@@ -1,3 +1,16 @@
+.blocker {
+  font-family: "MontserratSemiBold", Helvetica, sans-serif;
+  color: white;
+  padding: 5px 50px;
+  background: #fb6a72;
+  max-width: 250px;
+  margin-top: -60px;
+  transform: rotate(-20deg);
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  border: none;
+}
+
 .header {
   text-align: center;
   background-color: #0b193f;
