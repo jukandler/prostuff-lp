@@ -10,7 +10,7 @@ function Imprint() {
         </Link>
         <h1>Impressum</h1>
         <h2>PROSTUFF GbR</h2>
-        <h3>Königinstr. 37<br/>80539 München<br/><br/>E-Mail: <a className="email-link" href="mailto:timm@prostuff.app">timm@prostuff.app</a></h3>
+        <h3>Königinstr. 37<br/>80539 München<br/><br/>E-Mail: <a className="email-link" href="mailto:kontakt@prostuff.app">kontakt@prostuff.app</a></h3>
         <h2>Verantwortlich für den Inhalt gemäß § 55 Abs. 2 RStV</h2>
         <h3>Timm Gaber, Geschäftsführer<br/>Königinstr. 37<br/>80539 München</h3>
     </div>
