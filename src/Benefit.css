@@ -23,6 +23,7 @@
 
 .benefit-image {
   width: 30%;
+  box-shadow: 5px 5px 13px 0 #b5b5b5;
 }
 
 .text-block {

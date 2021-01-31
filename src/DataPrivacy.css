@@ -1,0 +1,15 @@
+.icon-wrapper {
+  position: absolute;
+  left: 25px;
+  top: 30px;
+}
+
+.back-icon {
+  width: 30px;
+}
+
+.text-block-datenschutz {
+  width: 60%;
+  margin: 0 auto;
+  text-align: start;
+}
