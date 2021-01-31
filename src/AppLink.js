@@ -9,7 +9,7 @@ function AppLink() {
           Jetzt die App holen
         </h2>
         <p>
-        Trete der prostuff Community bei, um die besten Produkte zu entdecken und selbst deine Lieblingsprodukte zu teilen.
+        Trete jetzt der PROSTUFF-Community bei:<br></br>Entdecke die besten Produkte von anderen Sportlern und teile selbst deine Lieblingsprodukte.
         </p>
         <Button/>
       </header>

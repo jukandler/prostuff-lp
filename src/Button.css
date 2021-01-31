@@ -1,4 +1,5 @@
 .button {
+  font-family: 'MontserratSemiBold', Helvetica, sans-serif;
   padding: 15px 30px;
   background: #20eda4;
   border-radius: 5px;
@@ -6,7 +7,6 @@
   margin: 20px 0;
   text-transform: uppercase;
   letter-spacing: 1.3px;
-  font-weight: bold;
   border: none;
   cursor: pointer;
 }

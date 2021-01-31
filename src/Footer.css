@@ -19,3 +19,8 @@
 .footer-link:hover {
   border-bottom: none;
 }
+
+.footer-link a {
+  text-decoration: none;
+  color: #0b193f;
+}
