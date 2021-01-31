@@ -1,6 +1,6 @@
-import inspiration from './inspiration.png';
-import weights from './weights.png';
-import heart from './heart.png';
+import inspiration from './assets/inspiration.png';
+import weights from './assets/weights.png';
+import heart from './assets/heart.png';
 import './BenefitRow.css';
 
 function BenefitRow() {
