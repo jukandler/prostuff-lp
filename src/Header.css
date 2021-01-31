@@ -2,7 +2,6 @@
   text-align: center;
   background-color: #0b193f;
   align-items: center;
-  justify-content: flex-end;
   flex-direction: column;
   display: flex;
   padding-bottom: 50px;
@@ -26,7 +25,6 @@
 
 .subheadline {
   color: #ffff;
-  font-size: 24px;
   max-width: 648px;
   padding: 0 25px;
   margin-bottom: 50px;
