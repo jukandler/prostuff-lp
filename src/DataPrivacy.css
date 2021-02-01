@@ -9,7 +9,8 @@
 }
 
 .text-block-datenschutz {
-  width: 60%;
+  max-width: 648px;
+  padding: 0 20px;
   margin: 0 auto;
-  text-align: start;
+  text-align: left;
 }

@@ -27,7 +27,7 @@ function DataPrivacy() {
                     <br/>
                 E-Mail: kontakt@prostuff.app
                     <br/>
-                Internet: 'https://www.prostuff.app/'
+                Internet: https://www.prostuff.app
                     <br/>
                     <br/>
                 </p>
