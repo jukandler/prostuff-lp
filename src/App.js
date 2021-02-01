@@ -32,7 +32,9 @@ function App() {
                 <Benefit logo={appscreen_profile} headline="Teile deine Lieblingsprodukte" text="Teile selbst deine eigenen Lieblingsprodukte und Empfehlungen mit deiner Community. Zeige, auf welche Sportausstattung du setzt und hilf so anderen dabei, sich zu verbessern und ihre sportlichen Ziele zu erreichen."/>
             </div>
             <AppLink/>
-            <Footer/>
+            <div className="footer-container">
+                <Footer/>
+            </div>
           </Route>
           <Route path="/impressum">
             <Imprint />
