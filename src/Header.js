@@ -10,7 +10,7 @@ function Header() {
           Prostuff App
       </h1>
       <h2 className="subheadline">
-          Entdecke die besten Produkte zu deinen Lieblingssportarten von Profis und Gleichgesinnten
+          Entdecke die besten Produkte zu deinen Lieblingssportarten von ambitionierten Sportlern
       </h2>
       <Button/>
       <button className="blocker">Bald verfügbar!</button>
