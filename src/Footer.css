@@ -12,12 +12,12 @@
 
 .footer-link {
   margin: 0 20px;
-  border-bottom: 1px solid currentColor;
+  border-bottom: none;
   cursor: pointer;
 }
 
 .footer-link:hover {
-  border-bottom: none;
+  border-bottom: 1px solid currentColor;
 }
 
 .footer-link a {

@@ -1,8 +1,7 @@
-import logo from './assets/logo.png';
 import './Benefit.css';
 
 function Benefit(props) {
-  const {reverse, headline, text} = props;
+  const {reverse, headline, text, logo} = props;
   return (
     <div className={`benefit ${reverse ? "reverse" : ""}`}>
         <img src={logo} className="benefit-image" alt="logo" />

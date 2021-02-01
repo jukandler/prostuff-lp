@@ -1,0 +1,20 @@
+.icon-wrapper {
+  position: absolute;
+  left: 25px;
+  top: 30px;
+}
+
+.back-icon {
+  width: 30px;
+}
+
+.email-link {
+  text-decoration: none;
+  color: #0b193f;
+  border-bottom: none;
+  cursor: pointer;
+}
+
+.email-link:hover {
+  border-bottom: 1px solid currentColor;
+}
