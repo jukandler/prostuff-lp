@@ -8,7 +8,7 @@ function BenefitRow() {
     <div className="benefit-row">
         <div className="benefit-column">
             <img src={weights} className="benefit-icon" alt="logo" />
-            <h3>Entdecke die Ausstattung<br/>der Profis</h3>
+            <h3>Entdecke die Ausstattung<br/>ambitionierter Sportler</h3>
         </div>
         <div className="benefit-column">
             <img src={inspiration} className="benefit-icon" alt="logo" />
