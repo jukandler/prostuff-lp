@@ -27,8 +27,8 @@ function App() {
                 <BenefitRow/>
             </div>
             <div className="benefit-container">
-                <Benefit logo={appscreen_feed} headline="Entdecke die Ausstattung ambitionierter Sportler" text="Finde heraus, welche Produkte ambitiobierte Sportler nutzen. Egal ob du dich für Fitness, Yoga oder Joggen interessierst: Bei PROSTUFF findest du die beste Ausstattung, die dich deinen sportlichen Zielen näher bringt."/>
-                <Benefit logo={appscreen_inspiration} headline="Hole dir Inspiration von Gleichgesinnten" text="Folge anderen Sportlern aus der Community, lasse dich inspirieren und bleibe auf dem Laufenden, welche neuen Produkte deine Bekannten empfehlen. Speichere die besten Empfehlungen auf deine Merkliste." reverse={true}/>
+                <Benefit logo={appscreen_feed} headline="Entdecke die Ausstattung anderer Sportler" text="Finde heraus, welche Produkte andere Sportler nutzen. Egal ob du dich für Fitness, Yoga oder Joggen interessierst: Bei PROSTUFF findest du die beste Ausstattung, die dich deinen sportlichen Zielen näher bringt."/>
+                <Benefit logo={appscreen_inspiration} headline="Hole dir Inspiration von Gleichgesinnten" text="Folge anderen Sportlern aus der Community, lasse dich inspirieren und bleibe auf dem Laufenden, um keine Empfehlunge mehr zu verpassen. Speichere die besten Produkte auf deiner Merkliste." reverse={true}/>
                 <Benefit logo={appscreen_profile} headline="Teile deine Lieblingsprodukte" text="Teile selbst deine eigenen Lieblingsprodukte und Empfehlungen mit deiner Community. Zeige, auf welche Sportausstattung du setzt und hilf so anderen dabei, sich zu verbessern und ihre sportlichen Ziele zu erreichen."/>
             </div>
             <AppLink/>
