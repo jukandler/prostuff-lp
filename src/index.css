@@ -9,6 +9,7 @@
 }
 
 body {
+  background-color: #ECEDF0;
   margin: 0;
   font-family: 'MontserratRegular', Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
