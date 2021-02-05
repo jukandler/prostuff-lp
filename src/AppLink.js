@@ -12,7 +12,6 @@ function AppLink() {
         Trete jetzt der PROSTUFF-Community bei:<br></br>Entdecke die besten Produkte von anderen Sportlern und teile selbst deine Lieblingsprodukte.
         </p>
         <Button/>
-        <button className="blocker-applink">Bald verfügbar!</button>
       </header>
     </div>
   );

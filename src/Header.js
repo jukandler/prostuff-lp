@@ -13,7 +13,6 @@ function Header() {
             Entdecke die besten Produkte und Empfehlungen anderer Sportler
         </h2>
         <Button/>
-        <button className="blocker">Bald verfügbar!</button>
     </div>
   );
 }
