@@ -15,6 +15,7 @@ import Benefit from './Benefit';
 import AppLink from './AppLink';
 import Imprint from './Imprint';
 import DataPrivacy from './DataPrivacy';
+import Redirect from './Redirect';
 
 function App() {
   return (
@@ -41,6 +42,9 @@ function App() {
           </Route>
           <Route path="/datenschutz">
             <DataPrivacy />
+          </Route>
+          <Route path="/redirect">
+            <Redirect />
           </Route>
         </Switch>
     </Router>
