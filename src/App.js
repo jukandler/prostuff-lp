@@ -1,7 +1,7 @@
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
+  HashRouter,
 } from "react-router-dom";
 
 import './App.css';
@@ -18,9 +18,10 @@ import DataPrivacy from './DataPrivacy';
 import Redirect from './Redirect';
 
 function App() {
+
   return (
     <div className="App">
-      <Router>
+      <HashRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/">
             <Header/>
@@ -37,17 +38,17 @@ function App() {
                 <Footer/>
             </div>
           </Route>
-          <Route path="/impressum">
+          <Route path='/impressum'>
             <Imprint />
           </Route>
-          <Route path="/datenschutz">
+          <Route path='/datenschutz'>
             <DataPrivacy />
           </Route>
-          <Route path="/redirect">
+          <Route path='/redirect'>
             <Redirect />
           </Route>
         </Switch>
-    </Router>
+    </HashRouter>
     </div>
   );
 }
