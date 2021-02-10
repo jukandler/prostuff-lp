@@ -2,13 +2,13 @@ import React from 'react';
 import logo from './assets/logo.png';
 import './Redirect.css';
 
-const appScheme = "prostuff://";
+const appScheme = "exp://exp.io/@prostuff/prostuff";
 const appName = "PROSTUFF";
 
 function Redirect() {
   const isIos = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform);
   window.location.href = appScheme;
-  
+
   return (
     <div className="redirect">
         <img src={logo} className="App-logo" alt="logo"/>
