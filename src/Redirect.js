@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './assets/logo.png';
 import './Redirect.css';
 
-const appScheme = "exp://exp.io/@prostuff/prostuff";
+const appScheme = "exp://192.168.8.103:19000";
 const appName = "PROSTUFF";
 
 function Redirect() {
