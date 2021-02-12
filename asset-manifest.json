@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.14eb5843.chunk.css",
-    "main.js": "/static/js/main.536826ea.chunk.js",
-    "main.js.map": "/static/js/main.536826ea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c87eabbe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c87eabbe.js.map",
+    "main.css": "/static/css/main.f9a5893b.chunk.css",
+    "main.js": "/static/js/main.a6791e01.chunk.js",
+    "main.js.map": "/static/js/main.a6791e01.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bce93e7e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bce93e7e.js.map",
     "static/js/2.6f9861e2.chunk.js": "/static/js/2.6f9861e2.chunk.js",
     "static/js/2.6f9861e2.chunk.js.map": "/static/js/2.6f9861e2.chunk.js.map",
-    "static/js/3.36825460.chunk.js": "/static/js/3.36825460.chunk.js",
-    "static/js/3.36825460.chunk.js.map": "/static/js/3.36825460.chunk.js.map",
+    "static/js/3.bee18c12.chunk.js": "/static/js/3.bee18c12.chunk.js",
+    "static/js/3.bee18c12.chunk.js.map": "/static/js/3.bee18c12.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.14eb5843.chunk.css.map": "/static/css/main.14eb5843.chunk.css.map",
+    "static/css/main.f9a5893b.chunk.css.map": "/static/css/main.f9a5893b.chunk.css.map",
     "static/js/2.6f9861e2.chunk.js.LICENSE.txt": "/static/js/2.6f9861e2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/appscreen_feed.54c5a3df.png": "/static/media/appscreen_feed.54c5a3df.png",
     "static/media/appscreen_inspiration.c9b95334.png": "/static/media/appscreen_inspiration.c9b95334.png",
     "static/media/appscreen_profile.1d38a576.png": "/static/media/appscreen_profile.1d38a576.png",
+    "static/media/Header.css": "/static/media/cover.6c448b6b.png",
     "static/media/heart.f4b7da1e.png": "/static/media/heart.f4b7da1e.png",
     "static/media/inspiration.abbdaf08.png": "/static/media/inspiration.abbdaf08.png",
-    "static/media/logo_dark.feecbd92.jpg": "/static/media/logo_dark.feecbd92.jpg",
+    "static/media/logo_transparent.1e442675.png": "/static/media/logo_transparent.1e442675.png",
     "static/media/weights.e4105c31.png": "/static/media/weights.e4105c31.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c87eabbe.js",
+    "static/js/runtime-main.bce93e7e.js",
     "static/js/2.6f9861e2.chunk.js",
-    "static/css/main.14eb5843.chunk.css",
-    "static/js/main.536826ea.chunk.js"
+    "static/css/main.f9a5893b.chunk.css",
+    "static/js/main.a6791e01.chunk.js"
   ]
 }
