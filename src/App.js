@@ -15,6 +15,7 @@ import Benefit from './Benefit';
 import AppLink from './AppLink';
 import Imprint from './Imprint';
 import DataPrivacy from './DataPrivacy';
+import Download from './Download';
 import Redirect from './Redirect';
 
 function App() {
@@ -43,6 +44,9 @@ function App() {
           </Route>
           <Route path='/datenschutz'>
             <DataPrivacy />
+          </Route>
+          <Route path='/download'>
+            <Download />
           </Route>
           <Route path='/redirect'>
             <Redirect />
