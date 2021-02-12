@@ -1,22 +1,29 @@
 .header {
   text-align: center;
-  background-color: #0b193f;
   align-items: center;
   flex-direction: column;
   display: flex;
   padding-bottom: 50px;
+  background-image: url("./assets/cover.png");
+  background-size: 300%;
+}
+
+@media (min-width: 750px) {
+  .header {
+    background-size: 100%;
+  }
 }
 
 .header-logo {
-  height: 200px;
-  width: 100%;
+  width: 80%;
+  margin: 100px 0 30px;
   object-fit: contain;
 }
 
 @media (min-width: 750px) {
   .header-logo {
-    height: 500px;
-    width: unset;
+    width: 45%;
+    margin: 150px 0 80px;
   }
 }
 
@@ -24,6 +31,7 @@
   position: absolute;
   top: 0;
   margin: 0;
+  color: transparent;
 }
 
 .subheadline {
@@ -31,10 +39,4 @@
   max-width: 648px;
   padding: 0 25px;
   margin-bottom: 50px;
-}
-
-@media (min-width: 750px) {
-  .subheadline {
-    margin-top: -70px;
-  }
 }

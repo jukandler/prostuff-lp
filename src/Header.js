@@ -1,6 +1,7 @@
 import './Header.css';
-import logo from './assets/logo_dark.jpg'
 import Button from './Button';
+
+import logo from './assets/logo_transparent.png';
 
 function Header() {
   return (
