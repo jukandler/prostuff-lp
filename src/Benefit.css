@@ -21,9 +21,27 @@
 }
 
 .benefit-image {
-  width: 30%;
-  box-shadow: 5px 5px 13px 0 #b5b5b5;
-  filter: blur(5px);
+  width: 50%;
+  transform: rotate(10deg) translateX(-60%);
+  margin-top: 60px;
+}
+
+@media (min-width: 750px) {
+  .benefit-image {
+    transform: rotate(10deg) translateX(30%);
+    width: 40%;
+  }
+}
+
+.benefit.reverse .benefit-image {
+  transform: rotate(-10deg) translateX(60%);
+}
+
+@media (min-width: 750px) {
+  .benefit.reverse .benefit-image {
+    transform: rotate(-10deg) translateX(-30%);
+    width: 40%;
+  }
 }
 
 .text-block {
