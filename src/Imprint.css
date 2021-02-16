@@ -8,3 +8,10 @@
 .email-link:hover {
   border-bottom: 1px solid currentColor;
 }
+
+.imprint {
+  max-width: 648px;
+  padding: 0 20px;
+  margin: 0 auto;
+  text-align: center;
+}
