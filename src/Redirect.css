@@ -2,3 +2,15 @@
     color: #0b193f;
     text-decoration: none;
 }
+
+.redirect {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.redirect .logo {
+    width: 100px;
+}
