@@ -4,13 +4,13 @@
   flex-direction: column;
   display: flex;
   padding-bottom: 50px;
-  background-image: url("./assets/cover.png");
-  background-size: 300%;
+  background-image: url("./assets/background_mob.jpg");
+  background-size: cover;
 }
 
 @media (min-width: 750px) {
   .header {
-    background-size: 100%;
+    background-image: url("./assets/background.jpg");
   }
 }
 
