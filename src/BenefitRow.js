@@ -1,13 +1,13 @@
-import inspiration from './assets/inspiration.png';
-import weights from './assets/weights.png';
-import heart from './assets/heart.png';
+import inspiration from './assets/icon_rainbow.png';
+import equipment from './assets/icon_equipment.png';
+import heart from './assets/icon_heart.png';
 import './BenefitRow.css';
 
 function BenefitRow() {
   return (
     <div className="benefit-row">
         <div className="benefit-column">
-            <img src={weights} className="benefit-icon" alt="logo" />
+            <img src={equipment} className="benefit-icon" alt="logo" />
             <h3>Entdecke die Ausstattung<br/>anderer Sportler</h3>
         </div>
         <div className="benefit-column">
