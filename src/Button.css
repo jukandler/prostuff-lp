@@ -1,10 +1,10 @@
 .button {
-  font-family: 'MontserratSemiBold', Helvetica, sans-serif;
+  font-family: "MontserratSemiBold", Helvetica, sans-serif;
   padding: 15px 30px;
   background: #20eda4;
   border-radius: 5px;
   max-width: 250px;
-  margin: 20px 0;
+  margin: 20px 10px;
   text-transform: uppercase;
   letter-spacing: 1.3px;
   border: none;
