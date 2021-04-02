@@ -29,6 +29,18 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>PROSTUFF</title>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HDXM4MJSRJ"></script>
+    <script>
+      if (window.location.hostname !== "localhost") {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+  
+        gtag('config', 'G-HDXM4MJSRJ');
+      }
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
