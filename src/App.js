@@ -18,12 +18,16 @@ import Download from './Download';
 import Redirect from './Redirect';
 import Button from './Button';
 
+import SmartBanner from 'react-smartbanner';
+import 'react-smartbanner/dist/main.css';
+
 import logo from './assets/logo_transparent.png';
 
 function App() {
 
   return (
     <div className="App">
+      <SmartBanner title={'Prostuff'} />
       <HashRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/">
