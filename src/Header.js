@@ -1,21 +1,19 @@
 import Lane from './Lane';
 import './Header.css';
 
-// import categories from './assets/category_lane.png';
+import logo from './assets/logo_transparent.png';
 
 function Header() {
   return (
     <div className="header">
       <div className="headercontent">
-          <h1 className="subheadline">
+          <img src={logo} alt="prostuff Logo" className="header-logo"/>
+          <h2 className="subheadline">
               No Filter! No Makeup! Just Products!
-          </h1>
-          <h2 className="laneheadline">
-            Entdecke die perfekte Ausstattung, von Sportlern persönlich empfohlen,<br />egal für welche Sportart du dich interessierst:
           </h2>
-          {/* <div className="lanewrapper">
-              <img src={categories} alt="prostuff Heimtraining" className="lane"/>
-          </div> */}
+          <h3 className="laneheadline">
+            Entdecke die persönlichen Empfehlungen anderer Sportler -<br />egal, für welche Sportart du dich interessierst:
+          </h3>
           <Lane />
         </div>
     </div>

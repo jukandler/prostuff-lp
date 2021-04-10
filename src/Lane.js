@@ -26,7 +26,7 @@ function Lane() {
       onSwiper={(swiper) => console.log(swiper)}
       breakpoints={{
         768: {
-            slidesPerView: 4,
+            slidesPerView: 3,
         },
     }}
     >

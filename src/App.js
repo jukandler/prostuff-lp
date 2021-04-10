@@ -10,10 +10,8 @@ import appscreen_inspiration from './assets/appscreen_inspiration.png';
 import appscreen_profile from './assets/appscreen_profile.png'
 import Footer from './Footer';
 import Header from './Header';
-import BenefitRow from './BenefitRow';
 import Benefit from './Benefit';
 import AppLink from './AppLink';
-import Lane from './Lane';
 import Imprint from './Imprint';
 import DataPrivacy from './DataPrivacy';
 import Download from './Download';
@@ -31,7 +29,7 @@ function App() {
           <Route exact path="/">
             <div className="stickyheader">
               <div className="stickyheader-content">
-                <img src={logo} alt="prostuff Logo" className="header-logo"/>
+                <img src={logo} alt="prostuff Logo" className="nav-logo"/>
                 <h1 className="headline">
                       Prostuff App
                   </h1>
@@ -41,10 +39,6 @@ function App() {
                 </div>
             </div>
             <Header/>
-            {/* <Lane /> */}
-            {/* <div className="highlight-container">
-                <BenefitRow/>
-            </div> */}
             <div className="benefit-container">
                 <Benefit logo={appscreen_feed} headline="Entdecke die Ausstattung anderer Sportler" text="Finde heraus, welche Produkte andere Sportler nutzen. Egal ob du dich für Fitness, Yoga oder Joggen interessierst: Bei PROSTUFF findest du die beste Ausstattung, die dich deinen sportlichen Zielen näher bringt."/>
                 <Benefit logo={appscreen_inspiration} headline="Hole dir Inspiration von Gleichgesinnten" text="Folge anderen Sportlern aus der Community, lasse dich inspirieren und bleibe auf dem Laufenden, um keine Empfehlunge mehr zu verpassen. Speichere die besten Produkte auf deiner Merkliste." reverse={true}/>
