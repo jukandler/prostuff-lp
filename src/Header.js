@@ -1,6 +1,7 @@
+import Lane from './Lane';
 import './Header.css';
 
-import categories from './assets/category_lane.png';
+// import categories from './assets/category_lane.png';
 
 function Header() {
   return (
@@ -12,9 +13,10 @@ function Header() {
           <h2 className="laneheadline">
             Entdecke die perfekte Ausstattung, von Sportlern persönlich empfohlen,<br />egal für welche Sportart du dich interessierst:
           </h2>
-          <div className="lanewrapper">
+          {/* <div className="lanewrapper">
               <img src={categories} alt="prostuff Heimtraining" className="lane"/>
-          </div>
+          </div> */}
+          <Lane />
         </div>
     </div>
   );

@@ -56,12 +56,12 @@ html {
   margin: 50px 0;
   background-image: url("./assets/background_light_mob.jpg");
   background-size: cover;
-  margin: 80px 0 100px 0;
+  margin: 250px 0 100px 0;
 }
 
 @media (min-width: 750px) {
   .benefit-container {
-    margin: 100px 0;
+    margin: 0;
     overflow: hidden;
   }
 }

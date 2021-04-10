@@ -13,6 +13,7 @@ import Header from './Header';
 import BenefitRow from './BenefitRow';
 import Benefit from './Benefit';
 import AppLink from './AppLink';
+import Lane from './Lane';
 import Imprint from './Imprint';
 import DataPrivacy from './DataPrivacy';
 import Download from './Download';
@@ -40,6 +41,7 @@ function App() {
                 </div>
             </div>
             <Header/>
+            {/* <Lane /> */}
             {/* <div className="highlight-container">
                 <BenefitRow/>
             </div> */}
