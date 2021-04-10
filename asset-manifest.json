@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a44fcd27.chunk.css",
+    "main.css": "/static/css/main.ae078a29.chunk.css",
     "main.js": "/static/js/main.d677e8dd.chunk.js",
     "main.js.map": "/static/js/main.d677e8dd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3559c54e.js",
@@ -12,7 +12,7 @@
     "static/js/3.f19dac47.chunk.js.map": "/static/js/3.f19dac47.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2372c32d.chunk.css.map": "/static/css/2.2372c32d.chunk.css.map",
-    "static/css/main.a44fcd27.chunk.css.map": "/static/css/main.a44fcd27.chunk.css.map",
+    "static/css/main.ae078a29.chunk.css.map": "/static/css/main.ae078a29.chunk.css.map",
     "static/js/2.218cbe8e.chunk.js.LICENSE.txt": "/static/js/2.218cbe8e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/appscreen_feed.646934b4.png": "/static/media/appscreen_feed.646934b4.png",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.3559c54e.js",
     "static/css/2.2372c32d.chunk.css",
     "static/js/2.218cbe8e.chunk.js",
-    "static/css/main.a44fcd27.chunk.css",
+    "static/css/main.ae078a29.chunk.css",
     "static/js/main.d677e8dd.chunk.js"
   ]
 }
