@@ -10,9 +10,6 @@ function AppLink() {
         <h2 className="h2">
           Jetzt die App holen
         </h2>
-        <p>
-        Trete jetzt der PROSTUFF-Community bei:<br></br>Entdecke die besten Produkte von anderen Sportlern und teile selbst deine Lieblingsprodukte.
-        </p>
         <div className="appstore-buttons">
           <a href="https://apps.apple.com/de/app/prostuff/id1553954162?l=de" target="_blank" rel="noreferrer"> 
             <img src={appstore} alt="App Store Badge"></img>

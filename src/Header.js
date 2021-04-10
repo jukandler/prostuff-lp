@@ -1,19 +1,21 @@
 import './Header.css';
-import Button from './Button';
 
-import logo from './assets/logo_transparent.png';
+import categories from './assets/category_lane.png';
 
 function Header() {
   return (
     <div className="header">
-        <img src={logo} alt="prostuff Logo" className="header-logo"/>
-        <h1 className="headline">
-            Prostuff App
-        </h1>
-        <h2 className="subheadline">
-            Entdecke die besten Produkte und Empfehlungen anderer Sportler
-        </h2>
-        <Button/>
+      <div className="headercontent">
+          <h1 className="subheadline">
+              No Filter! No Makeup! Just Products!
+          </h1>
+          <h2 className="laneheadline">
+            Entdecke die perfekte Ausstattung, von Sportlern persönlich empfohlen,<br />egal für welche Sportart du dich interessierst:
+          </h2>
+          <div className="lanewrapper">
+              <img src={categories} alt="prostuff Heimtraining" className="lane"/>
+          </div>
+        </div>
     </div>
   );
 }

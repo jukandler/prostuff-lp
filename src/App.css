@@ -1,29 +1,73 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
   color: #0b193f;
   line-height: 1.5;
   background-color: #e3e9f6;
 }
 
+.stickyheader {
+  top: 0;
+  background-color: #142651;
+  z-index: 200;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 750px) {
+  .stickyheader {
+    height: auto;
+    position: sticky;
+  }
+}
+
+.stickyheader-content {
+  display: flex;
+  justify-content: center;
+}
+
+@media (min-width: 750px) {
+  .stickyheader-content {
+    max-width: 1200px;
+    justify-content: space-between;
+    justify-self: center;
+  }
+}
+
+.header-button-container {
+  display: none;
+}
+
 .highlight-container {
   display: flex;
-  background-color: #2D3E66;
+  background-color: #2d3e66;
   padding: 50px 0;
   color: white;
 }
 
 .footer-container {
-  background-color: #2D3E66;
+  background-color: #2d3e66;
 }
 
 .benefit-container {
   margin: 50px 0;
   background-image: url("./assets/background_light_mob.jpg");
   background-size: cover;
+  margin: 80px 0 100px 0;
 }
 
 @media (min-width: 750px) {
   .benefit-container {
     margin: 100px 0;
     overflow: hidden;
+  }
+}
+
+@media (min-width: 750px) {
+  .header-button-container {
+    display: block;
   }
 }

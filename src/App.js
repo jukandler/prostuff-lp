@@ -17,6 +17,9 @@ import Imprint from './Imprint';
 import DataPrivacy from './DataPrivacy';
 import Download from './Download';
 import Redirect from './Redirect';
+import Button from './Button';
+
+import logo from './assets/logo_transparent.png';
 
 function App() {
 
@@ -25,10 +28,21 @@ function App() {
       <HashRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/">
-            <Header/>
-            <div className="highlight-container">
-                <BenefitRow/>
+            <div className="stickyheader">
+              <div className="stickyheader-content">
+                <img src={logo} alt="prostuff Logo" className="header-logo"/>
+                <h1 className="headline">
+                      Prostuff App
+                  </h1>
+                  <div className="header-button-container">
+                    <Button/>
+                  </div>
+                </div>
             </div>
+            <Header/>
+            {/* <div className="highlight-container">
+                <BenefitRow/>
+            </div> */}
             <div className="benefit-container">
                 <Benefit logo={appscreen_feed} headline="Entdecke die Ausstattung anderer Sportler" text="Finde heraus, welche Produkte andere Sportler nutzen. Egal ob du dich für Fitness, Yoga oder Joggen interessierst: Bei PROSTUFF findest du die beste Ausstattung, die dich deinen sportlichen Zielen näher bringt."/>
                 <Benefit logo={appscreen_inspiration} headline="Hole dir Inspiration von Gleichgesinnten" text="Folge anderen Sportlern aus der Community, lasse dich inspirieren und bleibe auf dem Laufenden, um keine Empfehlunge mehr zu verpassen. Speichere die besten Produkte auf deiner Merkliste." reverse={true}/>

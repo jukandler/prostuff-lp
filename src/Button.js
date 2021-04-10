@@ -5,7 +5,7 @@ function Button() {
   return (
       <Link to="#appstore"> 
         <button className="button" >
-          App-Download
+          App herunterladen
         </button>
       </Link>
   );
