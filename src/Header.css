@@ -56,6 +56,7 @@
 .laneheadline {
   color: #ffff;
   text-align: center;
+  font-weight: 400;
 }
 
 @media (min-width: 750px) {
