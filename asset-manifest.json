@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.fab6bd53.chunk.css",
-    "main.js": "/static/js/main.d677e8dd.chunk.js",
-    "main.js.map": "/static/js/main.d677e8dd.chunk.js.map",
+    "main.js": "/static/js/main.fd087a5a.chunk.js",
+    "main.js.map": "/static/js/main.fd087a5a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3559c54e.js",
     "runtime-main.js.map": "/static/js/runtime-main.3559c54e.js.map",
     "static/css/2.2372c32d.chunk.css": "/static/css/2.2372c32d.chunk.css",
@@ -20,12 +20,12 @@
     "static/media/appscreen_profile.9067b074.png": "/static/media/appscreen_profile.9067b074.png",
     "static/media/Header.css": "/static/media/background_mob.c6dd5310.jpg",
     "static/media/App.css": "/static/media/background_light_mob.db93ebeb.jpg",
-    "static/media/cardFitness.003c8385.png": "/static/media/cardFitness.003c8385.png",
-    "static/media/cardHeimtraining.4b518a28.png": "/static/media/cardHeimtraining.4b518a28.png",
-    "static/media/cardLaufen.705660cf.png": "/static/media/cardLaufen.705660cf.png",
-    "static/media/cardOther.33849f03.png": "/static/media/cardOther.33849f03.png",
-    "static/media/cardRadsport.bf371860.png": "/static/media/cardRadsport.bf371860.png",
-    "static/media/cardTriathlon.5bf955b9.png": "/static/media/cardTriathlon.5bf955b9.png",
+    "static/media/cardFitness.34b5b4ac.png": "/static/media/cardFitness.34b5b4ac.png",
+    "static/media/cardHeimtraining.a165b76f.png": "/static/media/cardHeimtraining.a165b76f.png",
+    "static/media/cardLaufen.66a1d15a.png": "/static/media/cardLaufen.66a1d15a.png",
+    "static/media/cardOther.45c9b30f.png": "/static/media/cardOther.45c9b30f.png",
+    "static/media/cardRadsport.f14814ff.png": "/static/media/cardRadsport.f14814ff.png",
+    "static/media/cardTriathlon.c8f2f46e.png": "/static/media/cardTriathlon.c8f2f46e.png",
     "static/media/logo_transparent.1e442675.png": "/static/media/logo_transparent.1e442675.png",
     "static/media/playstore.1342aa0f.png": "/static/media/playstore.1342aa0f.png"
   },
@@ -34,6 +34,6 @@
     "static/css/2.2372c32d.chunk.css",
     "static/js/2.218cbe8e.chunk.js",
     "static/css/main.fab6bd53.chunk.css",
-    "static/js/main.d677e8dd.chunk.js"
+    "static/js/main.fd087a5a.chunk.js"
   ]
 }
