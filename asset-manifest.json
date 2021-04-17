@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.fab6bd53.chunk.css",
-    "main.js": "/static/js/main.fd087a5a.chunk.js",
-    "main.js.map": "/static/js/main.fd087a5a.chunk.js.map",
+    "main.css": "/static/css/main.fc7f404b.chunk.css",
+    "main.js": "/static/js/main.cbc77bdb.chunk.js",
+    "main.js.map": "/static/js/main.cbc77bdb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3559c54e.js",
     "runtime-main.js.map": "/static/js/runtime-main.3559c54e.js.map",
     "static/css/2.2372c32d.chunk.css": "/static/css/2.2372c32d.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f19dac47.chunk.js.map": "/static/js/3.f19dac47.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2372c32d.chunk.css.map": "/static/css/2.2372c32d.chunk.css.map",
-    "static/css/main.fab6bd53.chunk.css.map": "/static/css/main.fab6bd53.chunk.css.map",
+    "static/css/main.fc7f404b.chunk.css.map": "/static/css/main.fc7f404b.chunk.css.map",
     "static/js/2.218cbe8e.chunk.js.LICENSE.txt": "/static/js/2.218cbe8e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/appscreen_feed.646934b4.png": "/static/media/appscreen_feed.646934b4.png",
@@ -20,12 +20,12 @@
     "static/media/appscreen_profile.9067b074.png": "/static/media/appscreen_profile.9067b074.png",
     "static/media/Header.css": "/static/media/background_mob.c6dd5310.jpg",
     "static/media/App.css": "/static/media/background_light_mob.db93ebeb.jpg",
-    "static/media/cardFitness.34b5b4ac.png": "/static/media/cardFitness.34b5b4ac.png",
+    "static/media/cardFitness.4e086102.png": "/static/media/cardFitness.4e086102.png",
     "static/media/cardHeimtraining.a165b76f.png": "/static/media/cardHeimtraining.a165b76f.png",
-    "static/media/cardLaufen.66a1d15a.png": "/static/media/cardLaufen.66a1d15a.png",
+    "static/media/cardLaufen.ce1feb78.png": "/static/media/cardLaufen.ce1feb78.png",
     "static/media/cardOther.45c9b30f.png": "/static/media/cardOther.45c9b30f.png",
-    "static/media/cardRadsport.f14814ff.png": "/static/media/cardRadsport.f14814ff.png",
-    "static/media/cardTriathlon.c8f2f46e.png": "/static/media/cardTriathlon.c8f2f46e.png",
+    "static/media/cardRadsport.d28e5872.png": "/static/media/cardRadsport.d28e5872.png",
+    "static/media/cardTriathlon.7186dd4a.png": "/static/media/cardTriathlon.7186dd4a.png",
     "static/media/logo_transparent.1e442675.png": "/static/media/logo_transparent.1e442675.png",
     "static/media/playstore.1342aa0f.png": "/static/media/playstore.1342aa0f.png"
   },
@@ -33,7 +33,7 @@
     "static/js/runtime-main.3559c54e.js",
     "static/css/2.2372c32d.chunk.css",
     "static/js/2.218cbe8e.chunk.js",
-    "static/css/main.fab6bd53.chunk.css",
-    "static/js/main.fd087a5a.chunk.js"
+    "static/css/main.fc7f404b.chunk.css",
+    "static/js/main.cbc77bdb.chunk.js"
   ]
 }
