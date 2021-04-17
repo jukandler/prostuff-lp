@@ -9,10 +9,10 @@ function Header() {
       <div className="headercontent">
           <img src={logo} alt="prostuff Logo" className="header-logo"/>
           <h2 className="subheadline">
-              No Filter! No Makeup!<br />Just Products!
+              No Filter. No Makeup.<br />Just Products!
           </h2>
           <h3 className="laneheadline">
-            Entdecke die persönlichen Empfehlungen anderer Sportler mit direktem Link zu ihren Lieblingsshops -<br />egal, für welche Sportart du dich interessierst:
+            Entdecke die persönlichen Empfehlungen anderer Sportler mit direktem Link zum Shop -<br />egal, für welche Sportart du dich interessierst:
           </h3>
           <Lane />
         </div>
