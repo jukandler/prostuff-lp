@@ -34,9 +34,6 @@ function Lane() {
             <img className="slide" src={cardFitness} alt="Fitness" />
       </SwiperSlide>
       <SwiperSlide>
-            <img className="slide" src={cardHeimtraining} alt="Heimtraining" />
-      </SwiperSlide>
-      <SwiperSlide>
             <img className="slide" src={cardLaufen} alt="Laufen" />
       </SwiperSlide>
       <SwiperSlide>
