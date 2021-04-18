@@ -12,7 +12,7 @@ function Header() {
               No Filter. No Makeup.<br />Just Products!
           </h2>
           <h3 className="laneheadline">
-            Entdecke die persönlichen Empfehlungen anderer Sportler mit direktem Link zum Shop -<br />egal, für welche Sportart du dich interessierst:
+            Entdecke die persönlichen Empfehlungen anderer Sportler -<br />egal, für welche Sportart du dich interessierst:
           </h3>
           <Lane />
         </div>
